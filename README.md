@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @keszotrab
 - 👀 I’m interested in Programing(duh), modding, art, games and technology.
 - 🌱 I’m currently learning C#, C++ and how to be a better human being 🙏
-- 💞️ I’m looking to collaborate on ... Idk i am not a collaborator 
 
 <!---
 keszotrab/keszotrab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
